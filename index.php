@@ -3,3 +3,6 @@
 echo "HAppy New Year";
 echo 'test data';
 echo 'tedt data 4';
+echo 'hi developer';
+echo "main data";
+?>
